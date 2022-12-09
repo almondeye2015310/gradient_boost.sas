@@ -70,5 +70,3 @@ proc export data=_Pred_Tree
      outfile='sas.Gradboost_Tree'
      replace
     ;
-
-     
